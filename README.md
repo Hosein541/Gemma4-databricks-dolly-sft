@@ -1,8 +1,3 @@
-یک فایل `README.md` جامع، ساختاریافته و استاندارد بر اساس نوت‌بوک، متغیرها، هایپرپارامترها و جزئیات ارزیابی شما آماده شده است. همان‌طور که خواستید، نکته مربوط به آموزش روی زیرمجموعه دیتاست به دلیل محدودیت سخت‌افزاری و پتانسیل بهبود با اسکیل کردن ترین به‌طور کامل در آن گنجانده شده است.
-
----
-
-```markdown
 # 💬 Instruction Fine-Tuning Gemma on Databricks Dolly-15k with LoRA & Unsloth
 
 A lightweight, parameter-efficient instruction-tuning pipeline for **Gemma (2B)** on curated subsets of the **Databricks Dolly-15k** dataset, accelerated using **Unsloth (4-bit QLoRA)** and **TRL's SFTTrainer**.
@@ -12,8 +7,6 @@ A lightweight, parameter-efficient instruction-tuning pipeline for **Gemma (2B)*
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg)](https://huggingface.co/)
 [![Unsloth](https://img.shields.io/badge/%F0%9F%A6%A5%20Unsloth-4--bit%20Patching-green.svg)](https://github.com/unslothai/unsloth)
 [![PEFT](https://img.shields.io/badge/PEFT-LoRA-orange.svg)](https://github.com/huggingface/peft)
-
-```
 
 ---
 
