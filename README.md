@@ -189,8 +189,9 @@ print(f"Assistant: {response}")
 ## 📂 Repository Structure
 
 ```text
+├── output/
+│   └── test_predictions.json      # Sample inference results on test split 
 ├── Gemma_Dolly_SFT.ipynb          # Complete training & inference notebook
-├── test_predictions.json          # Sample inference results on test split
 ├── requirements.txt               # Dependencies
 └── README.md                      # Documentation
 
