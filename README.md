@@ -139,8 +139,8 @@ Generated responses are logged in JSON format under `test_predictions.json`:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)/.git
-cd 
+git clone https://github.com/Hosein541/Gemma4-databricks-dolly-sft.git
+cd Gemma4-databricks-dolly-sft
 
 # Install pinned dependencies
 pip install -r requirements.txt
