@@ -38,7 +38,7 @@ By leveraging **Unsloth 4-bit quantization** and **Low-Rank Adaptation (LoRA)**,
 
 ## 📊 Dataset & Preprocessing
 
-We use the [databricks/databricks-dolly-15k](https://www.google.com/search?q=https%3A%2F%2Fhuggingface.co%2Fdatasets%2Fdatabricks%2Fdatabricks-dolly-15k) instruction-following dataset.
+We use the [databricks/databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k) instruction-following dataset.
 
 1. **Category Filtering**: Filtered down to 4 representative task categories:
 * `open_qa`
